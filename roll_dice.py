@@ -1,5 +1,3 @@
-# roll dice
-
 import random
 
 def roll():
